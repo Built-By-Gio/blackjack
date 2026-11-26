@@ -6,7 +6,7 @@ Built by Gio ([Built-By-Gio](https://github.com/Built-By-Gio)).
 
 ## Status (2026-11-25)
 
-Working, and how that is known (all run on 2026-11-25):
+Working:
 - `python bj.py --help` lists the options below.
 - The built-in check, `python bj.py --test 20000`, passed all three parts:
   ```
@@ -65,7 +65,7 @@ bj.py   the whole simulation: strategy engine, edge calculation, shoe, game loop
 
 ## Roadmap / future plans
 
-No plans are recorded yet.
+Nothing else planned for now.
 
 ## Credits and license
 
